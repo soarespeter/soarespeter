@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-Meu nome é Peterson Soares, estou iniciando meus estudos em programação,no momento, aprendi
+Meu nome é Peterson Soares, estou iniciando meus estudos em programação 
+<br> 
+no momento, aprendi:
 <br>
 <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt=html-logo/>
