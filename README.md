@@ -14,7 +14,7 @@ no momento, aprendi:
 :computer:    Começando os estudos em:
 <br>
 <br>
-<img src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black alt=logo-javascripts"/>
+<img src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt=logo-javascripts/>
 <br>
 <br>
 ![peter stats](https://github-readme-stats.vercel.app/api?username=soarespeter&show_icons=true&bg_color=00000000)
